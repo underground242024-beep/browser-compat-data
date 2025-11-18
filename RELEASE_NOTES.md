@@ -1,5 +1,16 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.23](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.23)
+
+November 18, 2025
+
+### Statistics
+
+- 2 contributors have changed 2 files with 26 additions and 0 deletions in 1 commit ([`v7.1.22...v7.1.23`](https://github.com/mdn/browser-compat-data/compare/v7.1.22...v7.1.23))
+- 19,054 total features
+- 1,206 total contributors
+- 5,487 total stargazers
+
 ## [v7.1.22](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.22)
 
 November 17, 2025
